@@ -1,25 +1,37 @@
-# Machine Learning Projects
-
-A collection of end-to-end machine learning projects covering data analysis, modeling, validation, and evaluation, with a focus on practical and well-structured workflows.
+# Machine Learning Projects Portfolio
 
 ## Overview
-This repository is for all of my machine learning projects. Each project follows a complete workflow, starting from data exploration and preprocessing, through model development, and ending with evaluation and conclusions.
+This repository contains a collection of **machine learning and data science projects** developed to demonstrate practical skills in data analysis, feature engineering, modeling, and evaluation.
 
-## Contents
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Machine learning and statistical modeling
-- Time-series forecasting projects
-- Model evaluation and validation
+Each project is self-contained and follows a structured, reproducible workflow, including data preprocessing, model training, and performance assessment. The repository reflects progressive learning and increasing project complexity.
 
-## Purpose
-The goal of this repository is to build a professional portfolio of applied machine learning projects and to practice solving real-world problems using structured and reproducible approaches.
+---
 
-## Tools
+Each project directory includes:
+- A Jupyter notebook with the full analysis
+- A `requirements.txt` file for reproducibility
+- A dedicated `README.md` describing the project
+
+---
+
+## Tools and Technologies
 - Python
-- pandas, NumPy
-- scikit-learn
-- statsmodels
-- matplotlib
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- SQL / SQLite
+- Jupyter Notebook
 
-More projects will be added over time.
+---
+
+## Purpose of This Repository
+This repository serves as:
+- A **learning portfolio** documenting applied machine learning practice
+- A **reference** for structured end-to-end ML workflows
+- A **showcase** for academic and entry-level data science opportunities
+
+---
+
+## Author
+Ahmed Khalil
+
